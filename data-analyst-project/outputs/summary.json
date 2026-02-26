@@ -1,0 +1,32 @@
+{
+  "total_orders": 20,
+  "total_units_sold": 618,
+  "total_revenue": 304335.0,
+  "average_order_value": 15216.75,
+  "top_region": {
+    "name": "West",
+    "revenue": 84190.0
+  },
+  "top_product": {
+    "name": "Phone",
+    "revenue": 197085.0
+  },
+  "revenue_by_region": {
+    "East": 79010.0,
+    "North": 71615.0,
+    "South": 69520.0,
+    "West": 84190.0
+  },
+  "revenue_by_product": {
+    "Headphones": 22870.0,
+    "Laptop": 45530.0,
+    "Phone": 197085.0,
+    "Tablet": 38850.0
+  },
+  "revenue_by_month": {
+    "2026-01": 69700.0,
+    "2026-02": 73190.0,
+    "2026-03": 79425.0,
+    "2026-04": 82020.0
+  }
+}
